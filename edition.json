@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-30",
+  "numero": 1,
+  "demo": true,
+  "tendances": ["Sécheresse", "2016 saison 2", "Industrie automobile", "Halloween", "Paris Art Week", "Zombie Walk"],
+  "masques": {
+    "MF": { "barres": "█████-██████", "initiales": "M████-F█████", "periphrase": "la météo nationale" },
+    "DANS_ALLIER": { "barres": "dans l’██████", "initiales": "dans l’A█████", "periphrase": "dans un département du Centre" },
+    "RS": { "barres": "█████████", "initiales": "I████████", "periphrase": "son réseau social préféré" },
+    "GARE": { "barres": "██████", "initiales": "N█████", "periphrase": "gare de province" },
+    "PARIS": { "barres": "█████", "initiales": "P████", "periphrase": "une capitale" },
+    "BERLIN": { "barres": "██████", "initiales": "B█████", "periphrase": "sa voisine d’outre-Rhin" },
+    "SALON": { "barres": "le ███████ ██ █’████", "initiales": "le M██████ de l’A███", "periphrase": "le grand salon automobile d’octobre" }
+  },
+  "nouvelles": [
+    {
+      "id": "pluie-promise",
+      "titre": "Pluie promise",
+      "trope": "Slow burn",
+      "accroche": "Chaque soir, elle lui promet la pluie. Chaque soir, l’anticyclone s’interpose.",
+      "duree": "2 min de lecture",
+      "source": "Bulletin météo · 26 oct.",
+      "depeche": "Fin octobre, malgré des pluies parfois abondantes, la sécheresse reste marquée sur une large partie du pays. D’après [[MF]], le retour de l’anticyclone repousse les perturbations.",
+      "paragraphes": [
+        "Tous les soirs à 19 h 58, Inès promettait la pluie à la France entière. Et tous les soirs à 19 h 59, Baptiste, céréalier [[DANS_ALLIER]], éteignait la télévision en soupirant qu’elle mentait divinement bien.",
+        "Il finit par lui écrire. Une lettre, à l’ancienne, adressée à [[MF]], service prévisions, « à la dame en bleu ». Il y décrivait ses sols, fendus comme un cœur qu’on aurait oublié au soleil. Elle répondit par une carte isobare annotée au feutre : « Là. Mardi. Peut-être. »",
+        "Mardi, il ne tomba rien. Mercredi non plus. Entre eux s’était installé un troisième personnage, massif, immobile, d’une stabilité insupportable : l’anticyclone. Il campait sur le pays comme un ex qui refuse de rendre les clés.",
+        "Ils s’écrivirent tout l’automne. Elle apprit le nom de ses parcelles ; il apprit à lire un indice d’humidité des sols. Il avoua qu’il regardait désormais le bulletin pour elle, pas pour le ciel. Elle avoua qu’elle avait, une fois, arrondi un 40 % à 60 %. Pour lui.",
+        "Quand la première goutte tomba enfin sur ses terres, Inès n’était pas à l’antenne. Elle était dans sa cour, sans parapluie, et Baptiste comprit que certaines prévisions ne se trompent que sur la date."
+      ]
+    },
+    {
+      "id": "saison-2",
+      "titre": "Saison 2",
+      "trope": "Seconde chance",
+      "accroche": "Dix ans après, l’algorithme les remet dans la même photo.",
+      "duree": "2 min de lecture",
+      "source": "Tendance réseaux",
+      "depeche": "Dix ans plus tard, les codes de 2016 reviennent sur les réseaux sous le nom « 2016 saison 2 », portés par une vague de nostalgie.",
+      "paragraphes": [
+        "L’algorithme de [[RS]] avait de l’humour. Entre deux recettes de pâtes, il servit à Maëlle une photo d’elle-même en 2016 : filtre sépia, sourcils épais et, à côté, flou mais reconnaissable, Sacha. #2016saison2. Quatre mille cœurs.",
+        "En 2016, ils avaient vingt ans, un forfait de 2 Go à se partager et un amour qui tenait dans une story de quinze secondes. Ils s’étaient quittés sur un quai de [[GARE]], pour une raison qu’aucun des deux ne parvenait plus à retrouver.",
+        "Sacha commenta en premier. Un seul mot : « Saison 2 ? » Maëlle écrivit trois réponses, les effaça, puis envoya un gif, parce qu’en 2016 c’était comme ça qu’on disait les choses importantes.",
+        "Ils se revirent un jeudi, déguisés sans l’avoir prévu : lui en bomber, elle en choker. Ils rirent de la coïncidence, puis cessèrent de rire. Dix ans étaient passés sur leurs visages comme un filtre qu’on aurait enfin retiré.",
+        "« On refait tout pareil ? » demanda-t-il. « Non, dit-elle. Cette fois, on ne poste rien. » Ce fut, de loin, leur meilleure saison."
+      ]
+    },
+    {
+      "id": "clause-de-rapprochement",
+      "titre": "Clause de rapprochement",
+      "trope": "Mariage de raison",
+      "accroche": "Une virgule les sépare. Un communiqué commun les attend avant l’aube.",
+      "duree": "2 min de lecture",
+      "source": "Communiqué · 16 oct.",
+      "depeche": "Déclaration conjointe : [[PARIS]] et [[BERLIN]] affichent une position commune sur l’avenir de l’industrie automobile européenne.",
+      "paragraphes": [
+        "À 2 h 14 du matin, il ne restait plus qu’une virgule entre Claire et Jonas. Elle conseillait [[PARIS]] ; lui, [[BERLIN]]. Sur la table : un projet de déclaration commune sur l’avenir de l’automobile européenne, et quarante gobelets de café.",
+        "Ils se détestaient cordialement depuis [[SALON]], où il avait qualifié sa note de « très française », ce qui, dans sa bouche, n’était pas un compliment. Elle avait trouvé sa position « d’une rigueur admirable », ce qui, dans la sienne, non plus.",
+        "Mais il fallait un texte avant l’aube. Alors ils firent ce que font les nations : semblant. Semblant d’être d’accord, semblant de s’apprécier, semblant de ne pas remarquer que leurs mains se frôlaient chaque fois qu’ils tendaient le bras vers le même surligneur.",
+        "À 4 h 03, Jonas proposa d’ajouter « dans un esprit de confiance mutuelle ». Claire objecta que personne n’y croirait. Il répondit qu’il n’écrivait pas pour qu’on y croie, mais pour que ce soit vrai un jour.",
+        "La déclaration parut à 9 h. Elle ne disait rien de nouveau, comme toutes les déclarations. Mais au paragraphe 4, ceux qui savent lire entre les lignes trouvèrent une clause de rapprochement qu’aucun ministre n’avait relue."
+      ]
+    }
+  ]
+}

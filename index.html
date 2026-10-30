@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dépêches du Cœur — trois romances par jour, tirées de l’actualité</title>
+<meta name="description" content="Chaque jour, trois nouvelles sentimentales écrites par une IA à partir de l’actualité. Choisissez votre liaison.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 21s-8-5-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6-8 11-8 11z' fill='%23B0164E'/%3E%3C/svg%3E">
+</head>
+<body>
+<div class="page">
+
+  <div class="strip">
+    <span id="dateline">Édition du jour</span>
+    <div class="mask-switch" role="group" aria-label="Mode de caviardage">
+      <span class="mask-label">Caviardage :</span>
+      <button type="button" data-mask="barres">Barres</button>
+      <button type="button" data-mask="initiales">Initiales</button>
+      <button type="button" data-mask="periphrase">Périphrases</button>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <h1><a href="#" class="home-link">Dépêches <span class="accent">du Cœur</span></a></h1>
+    <p class="tagline">L’actualité vous brise le cœur ? Nous, on la transforme en romance. Trois nouvelles par jour, tirées de ce dont tout le monde parle.</p>
+  </header>
+
+  <div class="ticker" id="ticker">
+    <span class="ticker-label">Ça fait battre les cœurs :</span>
+  </div>
+
+  <p class="notice" id="notice" hidden></p>
+
+  <main id="app" aria-live="polite">
+    <p class="loading">Chargement de l’édition…</p>
+  </main>
+
+  <footer class="footer">
+    <span>Toute ressemblance avec des personnes réelles a été soigneusement caviardée.</span>
+    <span>Nouvelles écrites par une IA à partir de sujets d’actualité réels.</span>
+  </footer>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
