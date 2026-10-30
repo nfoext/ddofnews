@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "numero": 1,
+  "demo": true,
+  "bandeau": "Édition test : trois nouvelles générées avec le prompt du rédacteur à partir de sujets du 30 octobre, avant l’automatisation quotidienne.",
+  "tendances": ["Sommet Canada–UE", "Transmission des fermes", "Musique générée par IA", "Bitcoin", "Grève des dockers", "Halloween"],
+  "nouvelles": [
+    { "fichier": "1-canada-ue.txt", "source": "Sommet Canada–UE · 30 oct." },
+    { "fichier": "2-transmission-fermes.txt", "source": "Budget 2027 · 28 oct." },
+    { "fichier": "3-musique-ia.txt", "source": "Annonce plateforme · 20 oct." }
+  ]
+}

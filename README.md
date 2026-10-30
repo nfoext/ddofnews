@@ -10,8 +10,19 @@ Chaque jour, trois nouvelles sentimentales écrites par une IA à partir de l’
 | `style.css` | L’apparence |
 | `app.js` | Le comportement : lecture de l’édition, choix du jour, caviardage |
 | `edition.json` | L’édition du jour : tendances, masques, trois nouvelles |
+| `prompts/redacteur.md` | Le prompt qui transforme un article en nouvelle, et la grille de test |
+| `scripts/assembler.py` | Assemble les sorties du prompt en `edition.json`, avec contrôles |
+| `essais/<date>/` | Pour chaque édition : les entrées (résumés d’articles, sources), les sorties brutes du prompt et `lot.json` |
 
 Pour changer le contenu, on ne modifie que `edition.json`. Le reste du site ne bouge pas d’un jour à l’autre.
+
+## Fabriquer une édition
+
+1. Choisir trois articles du jour et noter leurs résumés dans `essais/<date>/entrees.md`.
+2. Passer chaque article dans le prompt de `prompts/redacteur.md`, avec un trope différent pour chacun. Enregistrer chaque réponse brute dans `essais/<date>/`.
+3. Décrire le lot dans `essais/<date>/lot.json` (date, numéro, tendances, fichiers et sources).
+4. Lancer `python3 scripts/assembler.py essais/<date>/lot.json`. Le script refuse une balise sans masque, un nom réel en clair ou un refus du rédacteur, et signale les longueurs hors cible.
+5. Publier `edition.json`.
 
 ## Mettre le site en ligne avec GitHub Pages
 
@@ -36,7 +47,7 @@ puis ouvrir `http://localhost:8000`.
 
 - `masques` : pour chaque clé, les trois formes `barres`, `initiales` et `periphrase`. Seules ces formes sont publiées, jamais le nom réel.
 - `nouvelles[].depeche` et `nouvelles[].paragraphes` : le texte, avec des balises `[[CLE]]` remplacées à l’affichage selon le mode choisi par le lecteur.
-- `demo: true` affiche le bandeau « Prototype » et le bouton « Rejouer ». À passer à `false` quand les éditions seront générées automatiquement.
+- `bandeau` (facultatif) : un message affiché sous les tendances. `demo: true` affiche le bouton « Rejouer », utile pour tester le choix du jour.
 
 ## Prochaine étape
 

@@ -52,9 +52,14 @@
 
   function fill(text) {
     var mode = getMode();
-    return String(text).replace(/\[\[([A-Z_]+)\]\]/g, function (m, key) {
+    return String(text).replace(/\[\[([A-Z_]+)\]\]/g, function (m, key, offset, whole) {
       var mask = edition.masques[key];
-      return mask ? (mask[mode] || mask.barres) : m;
+      if (!mask) return m;
+      var out = mask[mode] || mask.barres;
+      // Une périphrase qui ouvre une phrase prend une majuscule.
+      var before = whole.slice(0, offset).replace(/\s+$/, "");
+      if (before === "" || /[.!?»—]$/.test(before)) out = out.charAt(0).toUpperCase() + out.slice(1);
+      return out;
     });
   }
 
@@ -181,9 +186,9 @@
     var ticker = document.getElementById("ticker");
     edition.tendances.forEach(function (t) { ticker.appendChild(el("span", { text: t })); });
 
-    if (edition.demo) {
+    if (edition.bandeau) {
       var notice = document.getElementById("notice");
-      notice.textContent = "Prototype : les nouvelles de cette édition ont été écrites à la main pour tester le ton. La génération automatique arrive bientôt.";
+      notice.textContent = edition.bandeau;
       notice.hidden = false;
     }
   }

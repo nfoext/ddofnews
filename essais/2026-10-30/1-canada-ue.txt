@@ -1,0 +1,97 @@
+<fiche>
+titre : Toujours plus étroite
+trope : Ennemis devenus amants
+accroche : Elle voulait un statut. Il ne promettait que ce qu’il pouvait signer.
+depeche : Réunis [[A_MONTREAL]] les 29 et 30 octobre, le Canada et l’Union européenne ont scellé un rapprochement sans le statut de « membre associé » un temps évoqué par la présidente de [[COMMISSION]]. L’expression a été retirée du projet de déclaration commune, notamment sous la pression de [[BERLIN]], qui réserve ce statut aux pays candidats à l’adhésion.
+</fiche>
+<masques>
+A_MONTREAL | à Montréal | Montréal | dans la métropole du Saint-Laurent
+COMMISSION | la Commission | Commission | l’exécutif européen
+BERLIN | Berlin | Berlin | la chancellerie d’outre-Rhin
+AU_CONSEIL | au Conseil européen | Conseil européen | à la table des chefs d’État européens
+</masques>
+<nouvelle>
+À une heure du matin, dans une salle de réunion d’hôtel [[A_MONTREAL]], Geneviève Lacasse regarda Lukas Ehrlich barrer au stylo rouge les deux mots qu’elle aimait le plus au monde.
+
+— Membre associé, lut-il, du ton qu’on réserve aux effets secondaires. Non.
+
+— Vous n’avez pas lu la phrase en entier.
+
+— Je n’ai pas besoin de lire la suite d’une promesse qu’on ne pourra pas tenir.
+
+Elle avait quarante et un ans, dix-huit années de négociations commerciales derrière elle et une tasse de thé froid devant elle. Depuis le 16 septembre, depuis ce discours sur l’état de l’Union où la présidente de [[COMMISSION]] avait lâché l’expression sans l’expliquer, Geneviève vivait avec ces deux mots comme avec un prénom qu’on essaie en secret. Membre associé. Pas tout à fait dedans, plus tout à fait dehors. Une place à table, sans forcément le droit de choisir le menu. Elle trouvait cela d’une modestie charmante.
+
+Lukas, lui, était venu de [[BERLIN]] avec une valise cabine, trois cravates identiques et une conviction : un statut, cela se mérite. On ne l’offre pas à un pays parce qu’il est sympathique et partage vos inquiétudes. Ce statut-là, avait-il expliqué en réunion préparatoire, revenait aux pays candidats à l’adhésion, à l’Ukraine, au Monténégro, pas à un ami de passage. Il l’avait dit en anglais, puis en allemand, puis en français, pour être sûr que tout le monde avait compris. Geneviève avait compris dès l’anglais. Elle l’avait détesté dès l’allemand.
+
+— Et « partenaire privilégié » ? proposa-t-elle.
+
+— Trop vague.
+
+— « Presque membre » ?
+
+— Trop précis.
+
+— « Membre de cœur » ?
+
+Il leva les yeux de son document pour la première fois de la soirée. Ils étaient gris, cernés, et beaucoup moins sévères que sa cravate.
+
+— Madame Lacasse, il est une heure du matin. Ne me tentez pas.
+
+Ils travaillèrent jusqu’à trois heures. Elle défendait chaque adjectif comme un territoire ; il les reprenait un par un, avec la patience d’un douanier. Entre deux virgules, elle apprit qu’il avait grandi près de la mer du Nord, qu’il détestait le sirop d’érable et qu’il avait, deux ans plus tôt, rompu des fiançailles. Elle n’osa pas demander pourquoi. Il le dit quand même, en relisant un paragraphe sur les minerais critiques.
+
+— Elle voulait que je lui promette quelque chose que je n’étais pas sûr de pouvoir signer. Alors j’ai préféré ne rien signer du tout.
+
+— C’est très allemand.
+
+— C’est très honnête.
+
+— Les deux ne sont pas incompatibles, concéda-t-elle, et elle s’en voulut aussitôt.
+
+À trois heures et quart, un message de deux lignes fit savoir que la délégation française avait elle aussi des doutes sur l’idée de voir le Canada s’asseoir [[AU_CONSEIL]]. Puis vinrent les Italiens. Puis les Grecs. Geneviève regarda les deux mots rayés de rouge et sentit monter une chose qu’elle n’avait pas éprouvée depuis son divorce : la certitude qu’on allait la quitter poliment, avec une note de bas de page.
+
+— Venez, dit Lukas en refermant son ordinateur. Vous avez besoin de manger quelque chose qui ne soit pas un biscuit sous cellophane.
+
+Dehors, la nuit d’octobre sentait la feuille mouillée et le pain chaud. Ils marchèrent jusqu’à une boutique de bagels ouverte jour et nuit, où un homme en tablier enfournait des cercles de pâte avec une longue pelle en bois. Lukas commanda en anglais. Geneviève corrigea en français. Le boulanger leur répondit en italien, et ils rirent pour la première fois ensemble, de ce rire fatigué qui arrive après minuit et ne demande la permission à personne.
+
+Assis sur un muret, un sac en papier tiède entre eux, ils parlèrent de tout ce que le projet de déclaration énumérait sans tout à fait y croire : l’Arctique, l’énergie, les ingérences étrangères, le soutien à l’Ukraine, la régulation de l’intelligence artificielle. Elle lui raconta les hivers de son enfance, quand le fleuve gelait si fort qu’on entendait la glace craquer la nuit. Il lui raconta les étés de la sienne, quand la mer se retirait si loin qu’on croyait pouvoir marcher jusqu’au Danemark.
+
+— Vous voyez, dit-elle. On a déjà des intérêts communs. Le froid. L’eau. La géographie excessive.
+
+— Ce n’est pas une base juridique.
+
+— Non. C’est mieux.
+
+Il ne répondit pas. Il lui tendit le dernier bagel au sésame, celui qu’elle regardait depuis dix minutes, et ce geste, chez un homme qui avait rayé quarante de ses adjectifs, lui parut plus éloquent qu’un traité.
+
+Le 28 octobre, l’expression « membre associé » disparut du projet de déclaration commune. La nouvelle fuita dans la presse avant midi. Geneviève la lut dans un couloir, sur son téléphone, et fut surprise de ne pas avoir mal. À la place des deux mots rayés, il y avait désormais une formule que Lukas avait proposée à quatre heures du matin, entre deux bâillements, et qu’elle avait d’abord trouvée fade : une association toujours plus étroite, sans adhésion à part entière.
+
+Elle la relut trois fois. À la troisième, elle comprit qu’elle était amoureuse d’une tournure de phrase et, par voie de conséquence, de l’homme qui l’avait écrite.
+
+— Vous avez l’air contrariée, dit Lukas en la rejoignant.
+
+— Je suis furieuse. Vous avez écrit la phrase la plus romantique de ce sommet et vous l’avez rangée dans un paragraphe sur la coopération.
+
+— C’était le seul endroit où personne ne la remarquerait.
+
+— Moi, je l’ai remarquée.
+
+— Je sais, dit-il. C’était un peu le but.
+
+Le sommet s’ouvrit le lendemain. Pendant deux jours, Geneviève et Lukas se tinrent au fond de la salle, chacun derrière sa délégation, à trois mètres l’un de l’autre, à échanger des regards qui ne figuraient dans aucun compte rendu. Quand une journaliste lui demanda, à la sortie d’une séance, si le Canada n’était pas déçu de repartir sans statut, Geneviève répondit que les appellations comptaient moins que ce qu’on faisait ensemble. Lukas toussa dans son poing pour cacher un sourire. Personne ne comprit à qui la réponse était adressée.
+
+Le deuxième jour, entre deux séances, il lui glissa une note pliée en quatre, à la manière des écoliers. Elle s’attendait à une nouvelle rature. Elle lut : « Arctique, énergie, minerais critiques. Je propose d’ajouter : bagels. » Elle la rangea dans la poche intérieure de sa veste, du côté gauche, là où l’on garde les documents qu’on ne veut pas perdre. Le soir, en la dépliant de nouveau dans sa chambre, elle remarqua qu’il n’avait rien barré du tout.
+
+Le dernier soir, ils se retrouvèrent sur le muret de la boutique de bagels. Il faisait plus froid. Il avait enfin desserré sa cravate.
+
+— Alors, dit-elle. Qu’est-ce qu’on est, nous deux ? Partenaires privilégiés ? Presque quelque chose ?
+
+— Je ne promets que ce que je peux signer.
+
+— Je sais.
+
+— Alors je signe ceci.
+
+Il l’embrassa, longuement, avec le sérieux d’un homme qui relit chaque clause. Elle eut le temps de penser que c’était le meilleur compromis jamais obtenu d’un Allemand.
+
+Les contours exacts du partenariat devaient être définis d’ici le sommet de 2027. Geneviève proposa de s’y mettre dès le lendemain. Lukas annula son vol retour.
+</nouvelle>

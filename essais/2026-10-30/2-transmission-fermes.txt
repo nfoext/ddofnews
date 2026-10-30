@@ -1,0 +1,78 @@
+<fiche>
+titre : Cinq ans minimum
+trope : Faux couple
+accroche : Pour reprendre la ferme, il leur fallait former un couple. Ils n’en formaient pas.
+depeche : Le gouvernement a déposé le 28 octobre deux amendements au budget 2027 pour faciliter la transmission des exploitations agricoles, dans le cadre [[DU_PACTE]]. L’abattement sur la plus-value d’un cédant qui vend à de nouveaux agriculteurs doublerait à un million d’euros, et l’achat de foncier rural profiterait d’un taux réduit de 0,1 % jusqu’à 150 000 euros, contre l’engagement d’exploiter soi-même et de conserver la terre au moins cinq ans.
+</fiche>
+<masques>
+DU_PACTE | du pacte Genevard | Genevard | du pacte de la ministre
+DANS_PERCHE | dans le Perche | Perche | dans un bocage de l’Ouest
+AU_SALON_AGRI | au Salon de l’agriculture | Salon de l’agriculture | au grand rendez-vous annuel des vaches et des ministres
+</masques>
+<nouvelle>
+Le mercredi 28 octobre, à sept heures du matin, Odile Bertrand apprit par la radio de sa cuisine que le gouvernement venait de déposer deux amendements pour l’aider à prendre sa retraite. Elle posa sa tasse, regarda son chien et lui dit : « Tu entends, Bijou ? Ils ont pensé à nous. »
+
+Elle avait soixante-quatre ans, cent dix hectares [[DANS_PERCHE]], des genoux qui grinçaient avant la pluie et une conviction inébranlable : sa ferme ne serait vendue ni à un fonds, ni à un voisin qui voulait s’agrandir, ni à un citadin qui rêvait de chèvres. Elle serait vendue à un couple. Un vrai. Les couples restent, disait-elle. Les couples tiennent. Elle-même avait tenu trente et un ans avec Gérard, jusqu’à ce que Gérard parte vivre au bord de la mer avec une professeure d’aquagym, ce qui prouvait, selon elle, que les couples tiennent surtout quand l’un des deux n’a pas le mal de mer.
+
+Les amendements [[DU_PACTE]] tombaient bien. S’ils étaient adoptés, l’abattement sur sa plus-value doublerait, jusqu’à un million d’euros, à condition de vendre à de nouveaux agriculteurs. Et ses acheteurs ne paieraient presque plus de droits de mutation sur les premiers 150 000 euros : 0,1 %, pourvu qu’ils exploitent eux-mêmes, n’en fassent qu’un usage agricole et gardent la terre au moins cinq ans. Odile relut ces conditions dans le journal et les trouva très bien rédigées. On aurait dit des vœux.
+
+Le vendredi, à cause d’une erreur d’agenda que personne ne revendiqua jamais, deux candidats se présentèrent dans sa cour à la même heure.
+
+Samia Haddad, trente-quatre ans, agronome, venait de quitter une coopérative où elle passait ses journées à conseiller aux autres de faire ce qu’elle rêvait de faire elle-même. Elle portait des bottes qui avaient déjà servi et un dossier de quarante pages relié à la main.
+
+Théo Vasseur, trente-neuf ans, ancien contrôleur de gestion reconverti après un brevet agricole passé en cours du soir, portait des bottes neuves et un tableur imprimé en couleur.
+
+Ils se jaugèrent comme deux chats devant la même gamelle.
+
+— Je crois qu’il y a un malentendu, dit Samia.
+
+— Je crois que j’étais là avant, dit Théo.
+
+Odile les regarda l’un après l’autre, avec l’air de quelqu’un qui compare deux génisses au concours.
+
+— Dommage, soupira-t-elle. Vous auriez fait un joli couple. Je ne vends qu’à un couple, vous savez. Les célibataires, ça repart.
+
+Il y eut un silence. Une poule traversa la cour. Puis Théo, qui avait passé quinze ans à présenter des chiffres arrangés à des comités de direction, s’entendit répondre :
+
+— En fait, nous sommes ensemble.
+
+Samia le fixa. Il soutint son regard avec une conviction désespérée. Elle pensa aux cent dix hectares, aux haies, à la mare, à l’abattement d’un million d’euros, et posa sa main sur le bras de Théo.
+
+— On voulait vous faire la surprise, dit-elle.
+
+Le pacte fut conclu le soir même, sur le parking du supermarché du chef-lieu de canton. Ils achèteraient ensemble et exploiteraient ensemble pour respecter les conditions, puis, les cinq années écoulées, partageraient la terre en deux. Théo rédigea un protocole d’accord. Samia le corrigea au stylo vert. Ils se serrèrent la main comme on signe un armistice.
+
+Il fallut ensuite inventer une histoire. Ils s’étaient rencontrés, décidèrent-ils, [[AU_SALON_AGRI]], devant une vache normande primée. Au dîner chez Odile, Théo se lança dans un récit si détaillé de leur premier regard qu’il en oublia son gratin. Samia, pour le faire taire, lui prit la main sous la table. Il se tut. Elle ne la lâcha pas. Ni l’un ni l’autre ne sut dire, plus tard, lequel avait oublié de retirer la sienne.
+
+Odile, qui n’était pas née de la dernière pluie, glissait des questions pièges entre le fromage et le dessert. Comment Théo prenait-il son café ? Samia répondit « noir, sans sucre, comme ses tableurs », et Théo, qui le prenait au lait avec deux sucres, approuva avec ferveur. Quel était le plat préféré de Samia ? Théo répondit « le gratin », parce qu’il en avait encore dans la bouche. Odile hocha la tête et resservit tout le monde. Sur le chemin du retour, ils révisèrent leurs réponses comme on révise un examen : café, gratin, date d’anniversaire, nom de la vache normande. Samia proposa Marguerite. Théo trouva que c’était trop banal. Ils se disputèrent sur le nom de la vache jusqu’au rond-point.
+
+Les semaines suivantes, ils firent visiter la ferme à la banque, au conseiller de la chambre d’agriculture et à un notaire qui avait la manie de lire les clauses à voix haute. Théo faisait les chiffres. Samia faisait les sols. Ils se disputaient sur tout : la rotation des cultures, les haies à replanter, l’intérêt d’un méthaniseur, la bonne façon de plier une carte d’état-major. Après l’été qu’on venait de vivre, de sécheresse et de canicules à répétition, elle voulait de l’ombre partout. Lui voulait des marges. Ils finirent par planter des haies rentables, ce qui, de l’avis d’Odile, était la définition même du mariage.
+
+Un soir de novembre, alors qu’ils mesuraient la mare au décamètre, Théo glissa dedans. Samia le tira par le col, perdit l’équilibre à son tour, et ils restèrent assis dans trente centimètres d’eau froide, à rire comme des imbéciles. Quand le rire s’arrêta, il y eut ce moment précis où deux personnes comprennent en même temps qu’elles ne jouent plus.
+
+— Ça fait partie du protocole d’accord, ça ? demanda-t-elle.
+
+— Je crois que j’ai oublié une clause, dit-il.
+
+Il l’embrassa. Elle avait de la vase sur la joue. Il trouva que cela lui allait bien.
+
+Le lendemain, Odile les attendait dans la cuisine, Bijou sur les genoux.
+
+— Vous pouvez arrêter de vous tenir la main comme des inconnus dans un ascenseur, dit-elle. Je sais depuis le premier jour.
+
+— Depuis le premier jour ? répéta Samia.
+
+— Un vrai couple se dispute sur la façon de plier une carte. Vous, vous vous disputiez sur la façon de la lire. C’était beaucoup plus prometteur.
+
+Théo voulut s’excuser. Odile l’arrêta d’un geste.
+
+— Je ne voulais pas un couple, en vérité. Je voulais deux personnes qui restent. Je crois que je les ai.
+
+L’acte fut signé un mardi, chez le notaire. Il relut les engagements à voix haute, comme d’habitude : usage exclusivement agricole, exploitation par les acquéreurs eux-mêmes, conservation du bien pendant au moins cinq ans. Théo regarda Samia. Samia regarda Théo. Le protocole de partage, plié en quatre dans la poche de Théo, n’en sortit jamais.
+
+— Une question, maître, dit Samia. Ces cinq ans, c’est un minimum ou un maximum ?
+
+Le notaire ôta ses lunettes.
+
+— La loi fixe un minimum, madame. Pour le reste, elle vous fait confiance.
+</nouvelle>
